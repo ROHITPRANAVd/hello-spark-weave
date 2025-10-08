@@ -24,7 +24,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto text-center">
           <div className="animate-slide-up">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary via-secondary to-accent">
-              Hi, I'm [Your Name]
+              Hi, I'm ROHIT PRANAV D
             </h1>
             <p className="text-2xl md:text-4xl font-semibold mb-4 text-foreground">
               A People-Centered Web Designer
